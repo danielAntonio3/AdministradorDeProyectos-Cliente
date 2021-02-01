@@ -1,0 +1,29 @@
+export const FORMULARIO_PROYECTO = 'FORMULARIO_PROYECTO';
+export const PROYECTOS_CREADOS   = 'PROYECTOS_CREADOS';
+export const CREARNUEVO_PROYECTO = 'CREARNUEVO_PROYECTO';
+export const VALIDAR_FORMULARIO  = 'VALIDAR_FORMULARIO';
+export const PROYECTO_ACTUAL     = 'PROYECTO_ACTUAL';
+export const ELIMINAR_PTOYECTO   = 'ELIMINAR_PTOYECTO';
+
+
+export const TAREAS_PROYECTO     = 'TAREAS_PROYECTO';
+export const CREARNUEVA_TAREA    = 'CREARNUEVA_TAREA';
+export const VALIDAR_FORMTAREA   = 'VALIDAR_FORMTAREA';
+export const ELIMINAR_TAREA      = 'ELIMINAR_TAREA';
+export const TAREA_ACTUAL        = 'TAREA_ACTUAL';
+export const EDITAR_TAREA        = 'EDITAR_TAREA';
+
+
+export const MOSTRAR_ALERTA      = 'MOSTRAR_ALERTA';
+export const OCULTAR_ALERTA      = 'OCULTAR_ALERTA';
+
+
+export const REGISTRO_EXITOSO    = 'REGISTRO_EXITOSO';
+export const REGISTRO_ERROR      = 'REGISTRO_ERROR';
+export const OBTENER_USUARIO     = 'OBTENER_USUARIO';
+export const LOGIN_EXITOSO       = 'LOGIN_EXITOSO';
+export const LOGIN_ERROR         = 'LOGIN_ERROR';
+export const CERRAR_SESION       = 'CERRAR_SESION';
+
+export const PROYECTO_ERROR      = 'PROYECTO_ERROR';
+
